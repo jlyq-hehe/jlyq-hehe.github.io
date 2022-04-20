@@ -11,7 +11,6 @@
      }
      body {
          background-color: #000000;
-         font-family: verdana;
      }
      a:link {
     color: #000000;
@@ -21,6 +20,7 @@
     padding: 7px 17px;
     text-align: center;
      }
+  </style>
      </body>
      </html>
 
